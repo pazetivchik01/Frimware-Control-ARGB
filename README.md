@@ -71,5 +71,6 @@
         
 3. Загрузите прошивку через Arduino IDE
 
+!!!Эффекты не мои за основу взят проект AlexGyver WS2812_FX - https://github.com/AlexGyver/WS2812_FX
 
 Ссылка на проект с приложением - https://github.com/pazetivchik01/Frimware-Control-ARGB
